@@ -1,2 +1,2 @@
 # Linux-Shell
-Code implementing an linux command shell. Can be used as single instraction shell or in batch mode ( reading many instructions from txt file)
+Code implementing an linux command shell. Can be used as single instruction shell or in batch mode ( reading many instructions from txt file)
